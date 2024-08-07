@@ -58,17 +58,21 @@ Ensure you have Docker and Docker Compose installed on your machine.
     ```
 
 ### Project Structure
+\```
+llm-query-system/
 ├── python/
-│ ├── Dockerfile
-│ ├── app.py
-│ └── requirements.txt
+│   ├── Dockerfile
+│   ├── app.py
+│   └── requirements.txt
 ├── nodejs/
-│ ├── Dockerfile
-│ ├── app.js (or app.ts for TypeScript)
-│ ├── package.json
-│ └── tsconfig.json (if using TypeScript)
+│   ├── Dockerfile
+│   ├── app.js (or app.ts for TypeScript)
+│   ├── package.json
+│   └── tsconfig.json (if using TypeScript)
 ├── docker-compose.yml
 └── README.md
+\```
+
 
 
 ## Contributing
