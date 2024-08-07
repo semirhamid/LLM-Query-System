@@ -58,7 +58,7 @@ Ensure you have Docker and Docker Compose installed on your machine.
     ```
 
 ### Project Structure
-\```
+```
 llm-query-system/
 ├── python/
 │   ├── Dockerfile
@@ -71,7 +71,7 @@ llm-query-system/
 │   └── tsconfig.json (if using TypeScript)
 ├── docker-compose.yml
 └── README.md
-\```
+```
 
 
 
