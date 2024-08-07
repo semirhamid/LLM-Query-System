@@ -66,9 +66,9 @@ llm-query-system/
 │   └── requirements.txt
 ├── nodejs/
 │   ├── Dockerfile
-│   ├── app.js (or app.ts for TypeScript)
+│   ├── app.js
 │   ├── package.json
-│   └── tsconfig.json (if using TypeScript)
+│   └── tsconfig.json 
 ├── docker-compose.yml
 └── README.md
 ```
